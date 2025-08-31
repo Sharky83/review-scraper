@@ -10,3 +10,6 @@ wheels/
 # Virtual environments
 .venv
 google-reviews/config.py
+
+# VS Code workspace file
+google-reviews/review-scraper.code-workspace
