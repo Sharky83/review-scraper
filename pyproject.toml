@@ -1,0 +1,8 @@
+[project]
+name = "review-scraper"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = []
+# Note: The 'uv' tool uses pip under the hood to install dependencies from pyproject.toml
